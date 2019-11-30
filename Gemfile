@@ -16,7 +16,7 @@ end
 gem 'sass-rails', '~> 5.0'
 
 #Use Bootstrap library for styles
-gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap-sass', '~> 3.4.1'
 
 #Use font awesome library for icons
 gem 'font-awesome-sass', '4.2.0'
